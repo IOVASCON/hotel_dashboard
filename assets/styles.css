@@ -1,0 +1,108 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #e9ecef;
+    color: #343a40;
+}
+
+/* Estilizar o menu lateral */
+.bg-primary {
+    background-color: #343a40 !important;
+}
+
+.text-white {
+    color: #fff !important;
+}
+
+/* Links do menu lateral */
+.nav-link {
+    color: #fff !important;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.nav-pills .nav-link.active {
+    background-color: #007bff;
+}
+
+/* Centralizar título do gráfico */
+.plotly .title {
+    text-align: center;
+}
+
+/* Estilos para os cards */
+.card {
+    border: none;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.15rem 0.5rem rgba(0, 0, 0, 0.1) !important;
+}
+
+.card-body {
+    padding: 1.25rem;
+}
+
+/* Estilos para a tabela */
+.table {
+    background-color: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.15rem 0.5rem rgba(0, 0, 0, 0.1) !important;
+}
+
+.table-sm th,
+.table-sm td {
+    padding: 0.5rem;
+    text-align: left;
+}
+
+/* Ajustes de responsividade */
+@media (max-width: 768px) {
+    .main-content {
+        margin-left: 0;
+        padding: 10px;
+    }
+
+    .bg-primary {
+        position: static;
+        height: auto;
+    }
+}
+
+/* Estilos gerais */
+.shadow {
+    box-shadow: 0 0.15rem 0.5rem rgba(0, 0, 0, 0.1) !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #495057;
+}
+
+/* Ajustes adicionais para o layout */
+.mb-4 {
+    margin-bottom: 1.5rem !important;
+}
+
+/* Icones nos cards */
+.card-body i {
+    vertical-align: middle;
+}
+
+/* Estilo para a lista de progresso */
+.progress {
+    height: 2rem !important; /* Ajuste conforme o tamanho desejado */
+    border-radius: 0.25rem;
+}
+
+/* Aumentar a altura (e alinhar texto) na barra interna */
+.progress-bar {
+    font-size: 18px !important;
+    line-height: 2rem !important; /* para centralizar o texto verticalmente */
+}
+
+/* Estilo para o texto da meta */
+.goal-text {
+    font-size: 1rem;
+    color: #6c757d;
+}
