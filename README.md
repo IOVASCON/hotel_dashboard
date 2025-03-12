@@ -135,7 +135,7 @@ git clone <https://github.com/IOVASCON/hotel_dashboard.git>
 
 3. Métricas por Período:
 
-    ![Métricas por Período](images/dashboard_01_06_2023_a_30_06_2023.PNG)
+    ![Métricas por Período](images/dashboard_01_06_2023_a_30_06_2023.png)
 
 4. Metas Base Métricas:
 
