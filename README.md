@@ -1,6 +1,6 @@
 # 📊 Dashboard Hoteleiro para Revenue Management 🏨
 
-![Logo do Dashboard Hoteleiro](images/dashboard_tela_principal.PNG)
+![Dashboard Hoteleiro](images/introducao.webp)
 
 ## 🎯 Objetivo
 
@@ -125,19 +125,23 @@ git clone <https://github.com/IOVASCON/hotel_dashboard.git>
 
 ## 🖼️ Imagens do Desenvolvimento
 
-1. Dependências do Projeto:
+1. Dashboard:
+
+    ![Dashboard - Painel Geral](images/dashboard_tela_principal.PNG)
+
+2. Dependências do Projeto:
 
     ![Dependências do Projeto](images/dependencias.PNG)
 
-2. Rodando a Aplicação:
+3. Rodando a Aplicação:
 
     ![Rodando a Aplicação](images/rodando_aplicacao.PNG)
 
-3. Métricas por Período:
+4. Métricas por Período:
 
     ![Métricas por Período](images/dashboard_01_06_2023_a_30_06_2023.png)
 
-4. Metas Base Métricas:
+5. Metas Base Métricas:
 
     ![Metas com Base nas Métricas](images/metas.PNG)
 
